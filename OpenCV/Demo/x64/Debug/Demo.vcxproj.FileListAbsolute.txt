@@ -1,0 +1,2 @@
+D:\GitHub\MAVCAR\OpenCV\Demo\x64\Debug\Demo.exe
+D:\GitHub\MAVCAR\OpenCV\Demo\x64\Debug\Demo.pdb
