@@ -21,6 +21,8 @@ int main(int argc, char** argv)
 
 	String windowName = "My HelloWorld Window"; //Name of the window
 
+	cout << "Image has been opened successfully!" << endl;
+
 	namedWindow(windowName); // Create a window
 
 	imshow(windowName, image); // Show our image inside the created window.
