@@ -1,0 +1,10 @@
+D:\GitHub\AuthGUI-CPP\Auth\x64\Debug\Auth.vcxprojAssemblyReference.cache
+D:\GitHub\AuthGUI-CPP\Auth\x64\Debug\Auth.MyForm.resources
+D:\GitHub\AuthGUI-CPP\Auth\x64\Debug\Auth.vcxproj.GenerateResource.cache
+D:\GitHub\AuthGUI-CPP\Auth\x64\Debug\Auth.exe
+D:\GitHub\AuthGUI-CPP\Auth\x64\Debug\Auth.pdb
+D:\GitHub\MAVCarGUI-CPP\MAIN\x64\Debug\Auth.vcxprojAssemblyReference.cache
+D:\GitHub\MAVCarGUI-CPP\MAIN\x64\Debug\Auth.MyForm.resources
+D:\GitHub\MAVCarGUI-CPP\MAIN\x64\Debug\Auth.vcxproj.GenerateResource.cache
+D:\GitHub\MAVCarGUI-CPP\MAIN\x64\Debug\Auth.exe
+D:\GitHub\MAVCarGUI-CPP\MAIN\x64\Debug\Auth.pdb
